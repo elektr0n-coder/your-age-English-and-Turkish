@@ -1,1 +1,2 @@
-# your-age-English-and-Turkish
+# English There is a file with an .hta extension. I used hta because I couldn't convert html to exe. However, if you use the 2020 version in 2021, 2022, 2023, it cannot calculate your age, if you use the 2020 version in 2021, it cannot calculate your age.
+# Turkish .Hta uzantılı bir dosya var. Hta kullandım çünkü html'yi exe'ye dönüştüremedim. Ancak 2020 sürümünü 2021, 2022, 2023'te kullanırsanız yaşınızı hesaplayamaz, 2021'de 2020 sürümünü kullanırsanız yaşınızı hesaplayamaz.
